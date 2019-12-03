@@ -2,13 +2,14 @@ namespace dip_ioc
 {
     public class CustomerEntity
     {
-        DataAccessLayer dataAccess;
-
         public CustomerEntity()
         {
-            dataAccess = new DataAccessLayer();
         }
 
-        public string GetCustomerName(int id) => dataAccess.GetCustomerName(id);
+        public string GetCustomerName(int id) 
+        {
+            var dataAccessLayer = DataAccessFactory.GetDataAccessLayer();
+            return dataAccessLayer.GetCustomerName(id);
+        }
     }
 }
