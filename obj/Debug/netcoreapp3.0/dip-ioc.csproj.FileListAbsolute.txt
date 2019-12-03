@@ -1,0 +1,11 @@
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc.deps.json
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc.runtimeconfig.json
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc.runtimeconfig.dev.json
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc.dll
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/dip-ioc.pdb
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.csprojAssemblyReference.cache
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.AssemblyInfoInputs.cache
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.AssemblyInfo.cs
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.dll
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.pdb
