@@ -1,4 +1,5 @@
 ﻿using System;
+using Unity;
 
 namespace dip_ioc
 {
@@ -6,7 +7,14 @@ namespace dip_ioc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var container = new UnityContainer();
+            container.RegisterType<ICustomerDataAccessLayer, CustomerDataAccessLayer>();
+
+            var customerEntity = container.Resolve<CustomerEntity>();
+
+            int customerid = 5;
+
+            Console.WriteLine(customerEntity.GetCustomerName(customerid));
         }
     }
 }

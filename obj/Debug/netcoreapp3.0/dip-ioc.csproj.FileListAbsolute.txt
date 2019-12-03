@@ -9,3 +9,6 @@
 /Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.AssemblyInfo.cs
 /Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.dll
 /Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.pdb
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/Unity.Abstractions.dll
+/Users/Adrise/Documents/workspace/dip-ioc/bin/Debug/netcoreapp3.0/Unity.Container.dll
+/Users/Adrise/Documents/workspace/dip-ioc/obj/Debug/netcoreapp3.0/dip-ioc.csproj.CopyComplete

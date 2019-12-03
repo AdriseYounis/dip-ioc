@@ -6,4 +6,8 @@
     <RootNamespace>dip_ioc</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Unity.Container" Version="5.11.1" />
+  </ItemGroup>
+
 </Project>
