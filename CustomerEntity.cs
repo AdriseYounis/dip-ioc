@@ -3,10 +3,10 @@ namespace dip_ioc
     public class CustomerEntity
     {
         ICustomerDataAccessLayer customerDataAccess;
-        
-        public CustomerEntity()
+
+        public CustomerEntity(ICustomerDataAccessLayer customerDataAccess)
         {
-            customerDataAccess = DataAccessFactory.GetDataAccessLayer();
+            this.customerDataAccess = customerDataAccess;
         }
 
         public string GetCustomerName(int id) 
