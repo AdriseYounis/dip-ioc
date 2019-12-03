@@ -2,9 +2,9 @@ namespace dip_ioc
 {
     public class DataAccessFactory
     {
-        public static DataAccessLayer GetDataAccessLayer() 
+        public static ICustomerDataAccessLayer GetDataAccessLayer() 
         {
-            return new DataAccessLayer();
+            return new CustomerDataAccessLayer();
         } 
     }
 }

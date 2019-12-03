@@ -1,8 +1,8 @@
 namespace dip_ioc
 {
-     public class DataAccessLayer
+     public class CustomerDataAccessLayer : ICustomerDataAccessLayer
     {
-        public DataAccessLayer()
+        public CustomerDataAccessLayer()
         {
             
         }
